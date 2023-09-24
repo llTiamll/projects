@@ -1,0 +1,70 @@
+#ssssjk
+{
+    display: block;
+    width:50vw;
+    height: auto;
+    margin: 0 auto;
+    padding: 4rem 0;
+}
+#ddddd
+{
+    background-color: rgba(163, 170, 183, 0.253);
+}
+.p {
+    font-size: 1.5rem;
+    line-height: 3rem;
+}
+.question
+{
+    font-size: 1.5rem;
+    color:red;
+}
+
+.header-sec
+{
+    font-size: 2rem;
+}
+#mainBottom
+{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+
+}
+#sectionBottom
+{
+    grid-column: 1/2;
+}
+#all-card
+{
+    grid-column: 2/3;
+    display: block;
+}
+
+p .motaharek
+{
+    width: 90vw;
+}
+
+.scale{
+    margin: 0 auto;
+    width: 80vw;
+}
+
+#header-top-first
+{
+    width: calc(100vw - 2rem);
+    /* display: inline-block; */
+}
+#divSlider{
+    width: 100vw;
+
+}
+#divSlider
+{
+    width: 50vw; height:auto;
+}
+
+.img-card-in
+{
+    height: auto;
+}

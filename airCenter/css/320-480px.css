@@ -1,0 +1,64 @@
+
+#navbarSupportedContent
+{
+    width: 60vw;
+    background-color: #fff;
+    font-weight: 600;
+    border-radius: 0.6rem;
+    padding: 0.5rem 1rem;
+    width: 60vw;
+    background-color: black;
+    color: white;
+    z-index: 1;
+    position: absolute;
+}
+#navbarSupportedContent ul
+{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+#navbarSupportedContent ul li
+{
+    border-bottom: 2px solid white;
+    border-radius: 0.4rem;
+    margin: 0.4rem 0;
+    padding: 0.4rem;
+    cursor: pointer;
+    font-size: 0.8rem;
+}
+
+#first 
+{
+    background-color: black;
+    color: white;
+    direction: rtl;
+    text-align: right;
+}
+
+#first ul li 
+{
+    border: none;
+    margin-right: 0;
+    font-size: 0.8rem;
+    direction: rtl;
+
+}
+
+.card-of-courses
+{
+    width: 80vw;
+    margin: 0.8rem auto;
+    position: relative;
+    transition: 0.5s;
+}
+/* .card-of-courses-img
+{
+    height: 18vh;
+} */
+
+/* footer
+{
+    display: block;
+} */
+

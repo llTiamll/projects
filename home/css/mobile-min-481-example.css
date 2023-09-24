@@ -1,0 +1,10 @@
+.row,
+.row > .column {
+  padding: 8px;
+  /* width: 100%; */
+  display: flex;
+}
+.row .column 
+{
+    width: 30vw;
+}
